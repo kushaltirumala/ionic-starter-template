@@ -1,2 +1,2 @@
 # Ionic Template
-Just a simple template for Ionic. It explains a lot of what people might miss in the tutorials online if they're using Ionic/AngularJS for the first time.
+Just a simple account-based app template in Ionic (only front-end, no backend). Please read below if you have questions about Ionic/how the app is set up.
